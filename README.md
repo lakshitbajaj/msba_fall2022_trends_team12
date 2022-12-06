@@ -35,7 +35,8 @@ Easily embed in real-time account login flow to detect accounts that have been c
 
 <h2>Success Stories</h2>
 
-![image](https://media.github.umn.edu/user/24709/files/6ab90844-bbc6-41cd-a484-6137e09cba8e)
+![image](https://user-images.githubusercontent.com/13709103/206007561-822f9ed0-ae22-42f4-b384-42c30f759175.png)
+
 
 
 <h2>Creating the Detector</h2>
@@ -62,9 +63,18 @@ After finishing setting credentials, you can connect amazon fraud detector throu
 
 <h2>Other Resources</h2>
 
-[Handout](https://www.google.com)
+[Handout]([https://www.google.com](https://drive.google.com/drive/u/1/folders/1yaNfasmCVtXyYQ3850jqGlaOTq196TQA))
 
 [Presentation Slide](https://onedrive.live.com/view.aspx?resid=9AC853B097999F6!174&ithint=file%2cpptx&authkey=!AMtljLTpRXU3CG0)
 
 [Presentation Video](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
+<h2> Other Useful links </h2>
+[I'm an inline-style link with title](https://www.google.com "Google's Homepage")
+
+[I'm a reference-style link][Arbitrary case-insensitive reference text]
+
+[I'm a relative reference to a repository file](../blob/master/LICENSE)
+
+[You can use numbers for reference-style link definitions][1]
+ 

@@ -14,7 +14,8 @@ For this project, we trained a model on Amazon Fraud detector and ran it through
 4.	Take the model at that point, and add it to a detector and combine it with appropriate rules that are most important
 5.	Publish the detector and use the Fraud Detector Prediction API to send new events to get scores using custom detection logic
 
-![image](https://media.github.umn.edu/user/24709/files/aa29b5bc-52cc-4e7e-842c-a8c5272c5705)
+![image](https://user-images.githubusercontent.com/13709103/206007213-230331de-8876-467c-8094-2e846ee5218e.png)
+
 
 Amazon Fraud detector takes care of all the heavy lifting like Data Validation, Data Enrichment and transformation (e.g. adding geo location data to IP addresses) and feature engineering based on Amazon’s research and ML experts. 
 After picking the best performing model out of a series of models that have been trained, the pipeline outputs a trained model  that can be deployed in the application of your choice

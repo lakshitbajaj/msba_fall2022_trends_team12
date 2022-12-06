@@ -38,7 +38,6 @@ Easily embed in real-time account login flow to detect accounts that have been c
 ![image](https://user-images.githubusercontent.com/13709103/206007561-822f9ed0-ae22-42f4-b384-42c30f759175.png)
 
 
-
 <h2>Creating the Detector</h2>
 
 1.	Sign up for an Amazon Web Services (AWS) account, if you don't already have one.
@@ -77,5 +76,7 @@ After finishing setting credentials, you can connect amazon fraud detector throu
 
 [Amazon Fraud Detector customers](https://aws.amazon.com/fraud-detector/customers/)
 
-[Documentation] (https://docs.aws.amazon.com/frauddetector/?id=docs_gateway)
+[Documentation](https://docs.aws.amazon.com/frauddetector/?id=docs_gateway)
+
+[Use cases](https://aws.amazon.com/machine-learning/ml-use-cases/fraud-detection/)
  

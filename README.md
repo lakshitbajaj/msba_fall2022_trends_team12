@@ -20,7 +20,7 @@ For this project, we trained a model on Amazon Fraud detector and ran it through
 Amazon Fraud detector takes care of all the heavy lifting like Data Validation, Data Enrichment and transformation (e.g. adding geo location data to IP addresses) and feature engineering based on Amazon’s research and ML experts. 
 After picking the best performing model out of a series of models that have been trained, the pipeline outputs a trained model  that can be deployed in the application of your choice
 
-![image](https://media.github.umn.edu/user/24709/files/5a491311-5e52-475c-a845-e6f334b962db)
+![image](https://user-images.githubusercontent.com/13709103/206007395-c2449672-73e7-483f-8521-c8cf0a903bf2.png)
 
 
 <h2>Use Cases</h2>

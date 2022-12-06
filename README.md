@@ -58,12 +58,7 @@ Easily embed in real-time account login flow to detect accounts that have been c
 15.	Review the configuration and published your detector
 
 If you want to connect your local computer to amazon fraud detector, follow the steps in the [article](https://towardsdatascience.com/how-to-connect-with-jupyter-server-running-on-aws-ec2-efa309f47c51) to get your credentials: 
-After finishing setting credentials, you can connect amazon fraud detector through 
-```python
-import boto3
-```
-in your jupyter notebook.
-
+After finishing setting credentials, you can connect amazon fraud detector through import boto3 in your jupyter notebook.
 
 <h2>Other Resources</h2>
 

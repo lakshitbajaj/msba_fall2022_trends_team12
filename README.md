@@ -76,4 +76,6 @@ After finishing setting credentials, you can connect amazon fraud detector throu
 [AWS Blog on Amazon Fraud Detector](https://aws.amazon.com/blogs/aws/amazon-fraud-detector-is-now-generally-available/)
 
 [Amazon Fraud Detector customers](https://aws.amazon.com/fraud-detector/customers/)
+
+[Documentation] (https://docs.aws.amazon.com/frauddetector/?id=docs_gateway)
  

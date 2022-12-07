@@ -66,7 +66,7 @@ After finishing setting credentials, you can connect amazon fraud detector throu
 
 [Presentation Slide](https://onedrive.live.com/view.aspx?resid=9AC853B097999F6!174&ithint=file%2cpptx&authkey=!AMtljLTpRXU3CG0)
 
-[Presentation Video](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+[Presentation Video](https://www.youtube.com/watch?v=h5Jz2m8Ct5g)
 
 <h2> Other Useful links </h2>
 
